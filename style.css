@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url(https://online.engineering.arizona.edu/wp-content/themes/eng/images/blog/top-skills-software-and-computer-engineering.jpg) no-repeat;
+    background-size: cover;
+  }
+  .mycomp {
+    width: 450px;
+    background: rgba(0,0,0,0.8);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: #ffffff;
+    font-family: 'Century Gothic', sans-serif;
+    background: url()
+
+  }
+  .mycomp-img {
+    border: 8px dashed #ffffff;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-color:#b9b9b9;
+  }
+  .mycomp h1 {
+    font-size: 40px;
+    letter-spacing:4px;
+    font-weight: 100;
+    margin-bottom: 10px;
+  }
+  .mycomp h2 {
+    font-size:10px;
+    letter-spacing: 10px;
+    font-weight: 50;
+    margin-top: 10px;
+  }
+  .mycomp p {
+    text-align: justify;
+  }
+  .mycomp p b{
+    color:#ffffff;
+    text-decoration:none;
+    font-style: italic;
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  .mycomp li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+  }
+  .mycomp li a {
+    color: #ffffff;
+    font-size: 50px;
+    transition: all ease-in-out 250ms; 
+  }
+  .mycomp li a:hover {
+    color: #b9b9b9;
+  }
